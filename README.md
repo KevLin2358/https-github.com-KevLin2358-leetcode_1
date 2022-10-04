@@ -1,2 +1,2 @@
-# https-github.com-KevLin2358-leetcode_1
+# leetcode_1
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
